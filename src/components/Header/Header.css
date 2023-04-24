@@ -1,0 +1,19 @@
+
+  .header-content{
+    min-height: 380px;
+    display: flex;
+    background:  url("../../images/bgheader.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.header-text{
+    max-width: 770px;
+}
